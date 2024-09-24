@@ -1,0 +1,410 @@
+[
+  {
+    "country": "India",
+    "infantMortalityRateByCountry_deathsPer1K2021": 25.49,
+    "infantMortalityRateByCountry_deathsPer1K2020": 26.82,
+    "infantMortalityRateByCountry_deathsPer1K2019": 28.3,
+    "infantMortalityRateByCountry_deathsPer1K2018": 29.84,
+    "infantMortalityRateByCountry_deathsPer1K2017": 31.46
+  },
+  {
+    "country": "China",
+    "infantMortalityRateByCountry_deathsPer1K2021": 5.05,
+    "infantMortalityRateByCountry_deathsPer1K2020": 5.46,
+    "infantMortalityRateByCountry_deathsPer1K2019": 5.91,
+    "infantMortalityRateByCountry_deathsPer1K2018": 6.41,
+    "infantMortalityRateByCountry_deathsPer1K2017": 6.96
+  },
+  {
+    "country": "United States",
+    "infantMortalityRateByCountry_deathsPer1K2021": 5.36,
+    "infantMortalityRateByCountry_deathsPer1K2020": 5.44,
+    "infantMortalityRateByCountry_deathsPer1K2019": 5.52,
+    "infantMortalityRateByCountry_deathsPer1K2018": 5.59,
+    "infantMortalityRateByCountry_deathsPer1K2017": 5.67
+  },
+  {
+    "country": "Indonesia",
+    "infantMortalityRateByCountry_deathsPer1K2021": 18.88,
+    "infantMortalityRateByCountry_deathsPer1K2020": 19.5,
+    "infantMortalityRateByCountry_deathsPer1K2019": 20.14,
+    "infantMortalityRateByCountry_deathsPer1K2018": 20.84,
+    "infantMortalityRateByCountry_deathsPer1K2017": 21.58
+  },
+  {
+    "country": "Pakistan",
+    "infantMortalityRateByCountry_deathsPer1K2021": 52.78,
+    "infantMortalityRateByCountry_deathsPer1K2020": 54.37,
+    "infantMortalityRateByCountry_deathsPer1K2019": 55.85,
+    "infantMortalityRateByCountry_deathsPer1K2018": 57.43,
+    "infantMortalityRateByCountry_deathsPer1K2017": 58.99
+  },
+  {
+    "country": "Nigeria",
+    "infantMortalityRateByCountry_deathsPer1K2021": 70.59,
+    "infantMortalityRateByCountry_deathsPer1K2020": 72.27,
+    "infantMortalityRateByCountry_deathsPer1K2019": 73.94,
+    "infantMortalityRateByCountry_deathsPer1K2018": 75.48,
+    "infantMortalityRateByCountry_deathsPer1K2017": 77.05
+  },
+  {
+    "country": "Brazil",
+    "infantMortalityRateByCountry_deathsPer1K2021": 12.87,
+    "infantMortalityRateByCountry_deathsPer1K2020": 13.13,
+    "infantMortalityRateByCountry_deathsPer1K2019": 13.35,
+    "infantMortalityRateByCountry_deathsPer1K2018": 13.54,
+    "infantMortalityRateByCountry_deathsPer1K2017": 13.75
+  },
+  {
+    "country": "Bangladesh",
+    "infantMortalityRateByCountry_deathsPer1K2021": 22.91,
+    "infantMortalityRateByCountry_deathsPer1K2020": 24.06,
+    "infantMortalityRateByCountry_deathsPer1K2019": 25.34,
+    "infantMortalityRateByCountry_deathsPer1K2018": 26.68,
+    "infantMortalityRateByCountry_deathsPer1K2017": 28.1
+  },
+  {
+    "country": "Russia",
+    "infantMortalityRateByCountry_deathsPer1K2021": 4.07,
+    "infantMortalityRateByCountry_deathsPer1K2020": 4.36,
+    "infantMortalityRateByCountry_deathsPer1K2019": 4.7,
+    "infantMortalityRateByCountry_deathsPer1K2018": 5.1,
+    "infantMortalityRateByCountry_deathsPer1K2017": 5.55
+  },
+  {
+    "country": "Ethiopia",
+    "infantMortalityRateByCountry_deathsPer1K2021": 34.27,
+    "infantMortalityRateByCountry_deathsPer1K2020": 35.4,
+    "infantMortalityRateByCountry_deathsPer1K2019": 36.62,
+    "infantMortalityRateByCountry_deathsPer1K2018": 38,
+    "infantMortalityRateByCountry_deathsPer1K2017": 39.57
+  },
+  {
+    "country": "Mexico",
+    "infantMortalityRateByCountry_deathsPer1K2021": 11.4,
+    "infantMortalityRateByCountry_deathsPer1K2020": 11.8,
+    "infantMortalityRateByCountry_deathsPer1K2019": 12.19,
+    "infantMortalityRateByCountry_deathsPer1K2018": 12.62,
+    "infantMortalityRateByCountry_deathsPer1K2017": 13.05
+  },
+  {
+    "country": "Japan",
+    "infantMortalityRateByCountry_deathsPer1K2021": 1.74,
+    "infantMortalityRateByCountry_deathsPer1K2020": 1.79,
+    "infantMortalityRateByCountry_deathsPer1K2019": 1.84,
+    "infantMortalityRateByCountry_deathsPer1K2018": 1.89,
+    "infantMortalityRateByCountry_deathsPer1K2017": 1.93
+  },
+  {
+    "country": "Egypt",
+    "infantMortalityRateByCountry_deathsPer1K2021": 16.23,
+    "infantMortalityRateByCountry_deathsPer1K2020": 16.75,
+    "infantMortalityRateByCountry_deathsPer1K2019": 17.33,
+    "infantMortalityRateByCountry_deathsPer1K2018": 17.93,
+    "infantMortalityRateByCountry_deathsPer1K2017": 18.56
+  },
+  {
+    "country": "Philippines",
+    "infantMortalityRateByCountry_deathsPer1K2021": 20.47,
+    "infantMortalityRateByCountry_deathsPer1K2020": 21.05,
+    "infantMortalityRateByCountry_deathsPer1K2019": 21.63,
+    "infantMortalityRateByCountry_deathsPer1K2018": 22.19,
+    "infantMortalityRateByCountry_deathsPer1K2017": 22.7
+  },
+  {
+    "country": "DR Congo",
+    "infantMortalityRateByCountry_deathsPer1K2021": 62.37,
+    "infantMortalityRateByCountry_deathsPer1K2020": 64.11,
+    "infantMortalityRateByCountry_deathsPer1K2019": 65.86,
+    "infantMortalityRateByCountry_deathsPer1K2018": 67.64,
+    "infantMortalityRateByCountry_deathsPer1K2017": 69.53
+  },
+  {
+    "country": "Vietnam",
+    "infantMortalityRateByCountry_deathsPer1K2021": 16.43,
+    "infantMortalityRateByCountry_deathsPer1K2020": 16.64,
+    "infantMortalityRateByCountry_deathsPer1K2019": 16.81,
+    "infantMortalityRateByCountry_deathsPer1K2018": 16.96,
+    "infantMortalityRateByCountry_deathsPer1K2017": 17.13
+  },
+  {
+    "country": "Iran",
+    "infantMortalityRateByCountry_deathsPer1K2021": 10.87,
+    "infantMortalityRateByCountry_deathsPer1K2020": 11.23,
+    "infantMortalityRateByCountry_deathsPer1K2019": 11.62,
+    "infantMortalityRateByCountry_deathsPer1K2018": 12.03,
+    "infantMortalityRateByCountry_deathsPer1K2017": 12.45
+  },
+  {
+    "country": "Turkey",
+    "infantMortalityRateByCountry_deathsPer1K2021": 7.69,
+    "infantMortalityRateByCountry_deathsPer1K2020": 8.13,
+    "infantMortalityRateByCountry_deathsPer1K2019": 8.63,
+    "infantMortalityRateByCountry_deathsPer1K2018": 9.2,
+    "infantMortalityRateByCountry_deathsPer1K2017": 9.8
+  },
+  {
+    "country": "Germany",
+    "infantMortalityRateByCountry_deathsPer1K2021": 3.03,
+    "infantMortalityRateByCountry_deathsPer1K2020": 3.1,
+    "infantMortalityRateByCountry_deathsPer1K2019": 3.16,
+    "infantMortalityRateByCountry_deathsPer1K2018": 3.22,
+    "infantMortalityRateByCountry_deathsPer1K2017": 3.26
+  },
+  {
+    "country": "Thailand",
+    "infantMortalityRateByCountry_deathsPer1K2021": 7.1,
+    "infantMortalityRateByCountry_deathsPer1K2020": 7.39,
+    "infantMortalityRateByCountry_deathsPer1K2019": 7.72,
+    "infantMortalityRateByCountry_deathsPer1K2018": 8.07,
+    "infantMortalityRateByCountry_deathsPer1K2017": 8.44
+  },
+  {
+    "country": "United Kingdom",
+    "infantMortalityRateByCountry_deathsPer1K2021": 3.65,
+    "infantMortalityRateByCountry_deathsPer1K2020": 3.71,
+    "infantMortalityRateByCountry_deathsPer1K2019": 3.76,
+    "infantMortalityRateByCountry_deathsPer1K2018": 3.79,
+    "infantMortalityRateByCountry_deathsPer1K2017": 3.81
+  },
+  {
+    "country": "Tanzania",
+    "infantMortalityRateByCountry_deathsPer1K2021": 34.11,
+    "infantMortalityRateByCountry_deathsPer1K2020": 34.93,
+    "infantMortalityRateByCountry_deathsPer1K2019": 35.91,
+    "infantMortalityRateByCountry_deathsPer1K2018": 36.82,
+    "infantMortalityRateByCountry_deathsPer1K2017": 38.22
+  },
+  {
+    "country": "France",
+    "infantMortalityRateByCountry_deathsPer1K2021": 3.45,
+    "infantMortalityRateByCountry_deathsPer1K2020": 3.45,
+    "infantMortalityRateByCountry_deathsPer1K2019": 3.41,
+    "infantMortalityRateByCountry_deathsPer1K2018": 3.36,
+    "infantMortalityRateByCountry_deathsPer1K2017": 3.3
+  },
+  {
+    "country": "South Africa",
+    "infantMortalityRateByCountry_deathsPer1K2021": 26.43,
+    "infantMortalityRateByCountry_deathsPer1K2020": 26.92,
+    "infantMortalityRateByCountry_deathsPer1K2019": 27.3,
+    "infantMortalityRateByCountry_deathsPer1K2018": 27.76,
+    "infantMortalityRateByCountry_deathsPer1K2017": 28.31
+  },
+  {
+    "country": "Italy",
+    "infantMortalityRateByCountry_deathsPer1K2021": 2.23,
+    "infantMortalityRateByCountry_deathsPer1K2020": 2.39,
+    "infantMortalityRateByCountry_deathsPer1K2019": 2.55,
+    "infantMortalityRateByCountry_deathsPer1K2018": 2.7,
+    "infantMortalityRateByCountry_deathsPer1K2017": 2.83
+  },
+  {
+    "country": "Kenya",
+    "infantMortalityRateByCountry_deathsPer1K2021": 27.99,
+    "infantMortalityRateByCountry_deathsPer1K2020": 28.98,
+    "infantMortalityRateByCountry_deathsPer1K2019": 29.71,
+    "infantMortalityRateByCountry_deathsPer1K2018": 30.59,
+    "infantMortalityRateByCountry_deathsPer1K2017": 31.56
+  },
+  {
+    "country": "Myanmar",
+    "infantMortalityRateByCountry_deathsPer1K2021": 33.72,
+    "infantMortalityRateByCountry_deathsPer1K2020": 34.74,
+    "infantMortalityRateByCountry_deathsPer1K2019": 35.83,
+    "infantMortalityRateByCountry_deathsPer1K2018": 36.99,
+    "infantMortalityRateByCountry_deathsPer1K2017": 38.15
+  },
+  {
+    "country": "Colombia",
+    "infantMortalityRateByCountry_deathsPer1K2021": 11.06,
+    "infantMortalityRateByCountry_deathsPer1K2020": 11.41,
+    "infantMortalityRateByCountry_deathsPer1K2019": 11.81,
+    "infantMortalityRateByCountry_deathsPer1K2018": 12.17,
+    "infantMortalityRateByCountry_deathsPer1K2017": 12.58
+  },
+  {
+    "country": "South Korea",
+    "infantMortalityRateByCountry_deathsPer1K2021": 2.47,
+    "infantMortalityRateByCountry_deathsPer1K2020": 2.57,
+    "infantMortalityRateByCountry_deathsPer1K2019": 2.67,
+    "infantMortalityRateByCountry_deathsPer1K2018": 2.76,
+    "infantMortalityRateByCountry_deathsPer1K2017": 2.85
+  },
+  {
+    "country": "Sudan",
+    "infantMortalityRateByCountry_deathsPer1K2021": 38.95,
+    "infantMortalityRateByCountry_deathsPer1K2020": 39.92,
+    "infantMortalityRateByCountry_deathsPer1K2019": 40.98,
+    "infantMortalityRateByCountry_deathsPer1K2018": 42.03,
+    "infantMortalityRateByCountry_deathsPer1K2017": 43.08
+  },
+  {
+    "country": "Uganda",
+    "infantMortalityRateByCountry_deathsPer1K2021": 31.17,
+    "infantMortalityRateByCountry_deathsPer1K2020": 32.13,
+    "infantMortalityRateByCountry_deathsPer1K2019": 33.18,
+    "infantMortalityRateByCountry_deathsPer1K2018": 34.36,
+    "infantMortalityRateByCountry_deathsPer1K2017": 35.95
+  },
+  {
+    "country": "Spain",
+    "infantMortalityRateByCountry_deathsPer1K2021": 2.56,
+    "infantMortalityRateByCountry_deathsPer1K2020": 2.61,
+    "infantMortalityRateByCountry_deathsPer1K2019": 2.66,
+    "infantMortalityRateByCountry_deathsPer1K2018": 2.69,
+    "infantMortalityRateByCountry_deathsPer1K2017": 2.71
+  },
+  {
+    "country": "Algeria",
+    "infantMortalityRateByCountry_deathsPer1K2021": 19.16,
+    "infantMortalityRateByCountry_deathsPer1K2020": 19.65,
+    "infantMortalityRateByCountry_deathsPer1K2019": 20.12,
+    "infantMortalityRateByCountry_deathsPer1K2018": 20.58,
+    "infantMortalityRateByCountry_deathsPer1K2017": 21.01
+  },
+  {
+    "country": "Iraq",
+    "infantMortalityRateByCountry_deathsPer1K2021": 20.75,
+    "infantMortalityRateByCountry_deathsPer1K2020": 21.41,
+    "infantMortalityRateByCountry_deathsPer1K2019": 22.1,
+    "infantMortalityRateByCountry_deathsPer1K2018": 22.73,
+    "infantMortalityRateByCountry_deathsPer1K2017": 23.39
+  },
+  {
+    "country": "Argentina",
+    "infantMortalityRateByCountry_deathsPer1K2021": 6.15,
+    "infantMortalityRateByCountry_deathsPer1K2020": 6.84,
+    "infantMortalityRateByCountry_deathsPer1K2019": 7.63,
+    "infantMortalityRateByCountry_deathsPer1K2018": 8.41,
+    "infantMortalityRateByCountry_deathsPer1K2017": 9.13
+  },
+  {
+    "country": "Afghanistan",
+    "infantMortalityRateByCountry_deathsPer1K2021": 43.39,
+    "infantMortalityRateByCountry_deathsPer1K2020": 44.85,
+    "infantMortalityRateByCountry_deathsPer1K2019": 46.28,
+    "infantMortalityRateByCountry_deathsPer1K2018": 47.79,
+    "infantMortalityRateByCountry_deathsPer1K2017": 49.38
+  },
+  {
+    "country": "Yemen",
+    "infantMortalityRateByCountry_deathsPer1K2021": 46.65,
+    "infantMortalityRateByCountry_deathsPer1K2020": 45.78,
+    "infantMortalityRateByCountry_deathsPer1K2019": 46.51,
+    "infantMortalityRateByCountry_deathsPer1K2018": 46.56,
+    "infantMortalityRateByCountry_deathsPer1K2017": 46.01
+  },
+  {
+    "country": "Canada",
+    "infantMortalityRateByCountry_deathsPer1K2021": 4.43,
+    "infantMortalityRateByCountry_deathsPer1K2020": 4.49,
+    "infantMortalityRateByCountry_deathsPer1K2019": 4.53,
+    "infantMortalityRateByCountry_deathsPer1K2018": 4.57,
+    "infantMortalityRateByCountry_deathsPer1K2017": 4.61
+  },
+  {
+    "country": "Poland",
+    "infantMortalityRateByCountry_deathsPer1K2021": 3.73,
+    "infantMortalityRateByCountry_deathsPer1K2020": 3.74,
+    "infantMortalityRateByCountry_deathsPer1K2019": 3.79,
+    "infantMortalityRateByCountry_deathsPer1K2018": 3.89,
+    "infantMortalityRateByCountry_deathsPer1K2017": 4
+  },
+  {
+    "country": "Morocco",
+    "infantMortalityRateByCountry_deathsPer1K2021": 15.42,
+    "infantMortalityRateByCountry_deathsPer1K2020": 16.07,
+    "infantMortalityRateByCountry_deathsPer1K2019": 16.73,
+    "infantMortalityRateByCountry_deathsPer1K2018": 17.48,
+    "infantMortalityRateByCountry_deathsPer1K2017": 18.29
+  },
+  {
+    "country": "Angola",
+    "infantMortalityRateByCountry_deathsPer1K2021": 47.16,
+    "infantMortalityRateByCountry_deathsPer1K2020": 48.68,
+    "infantMortalityRateByCountry_deathsPer1K2019": 50.38,
+    "infantMortalityRateByCountry_deathsPer1K2018": 52.04,
+    "infantMortalityRateByCountry_deathsPer1K2017": 53.79
+  },
+  {
+    "country": "Ukraine",
+    "infantMortalityRateByCountry_deathsPer1K2021": 7.04,
+    "infantMortalityRateByCountry_deathsPer1K2020": 7.15,
+    "infantMortalityRateByCountry_deathsPer1K2019": 7.28,
+    "infantMortalityRateByCountry_deathsPer1K2018": 7.43,
+    "infantMortalityRateByCountry_deathsPer1K2017": 7.62
+  },
+  {
+    "country": "Uzbekistan",
+    "infantMortalityRateByCountry_deathsPer1K2021": 12.57,
+    "infantMortalityRateByCountry_deathsPer1K2020": 13.16,
+    "infantMortalityRateByCountry_deathsPer1K2019": 13.78,
+    "infantMortalityRateByCountry_deathsPer1K2018": 14.45,
+    "infantMortalityRateByCountry_deathsPer1K2017": 15.21
+  },
+  {
+    "country": "Malaysia",
+    "infantMortalityRateByCountry_deathsPer1K2021": 6.46,
+    "infantMortalityRateByCountry_deathsPer1K2020": 6.61,
+    "infantMortalityRateByCountry_deathsPer1K2019": 6.74,
+    "infantMortalityRateByCountry_deathsPer1K2018": 6.86,
+    "infantMortalityRateByCountry_deathsPer1K2017": 6.94
+  },
+  {
+    "country": "Mozambique",
+    "infantMortalityRateByCountry_deathsPer1K2021": 51,
+    "infantMortalityRateByCountry_deathsPer1K2020": 52.49,
+    "infantMortalityRateByCountry_deathsPer1K2019": 53.57,
+    "infantMortalityRateByCountry_deathsPer1K2018": 55.23,
+    "infantMortalityRateByCountry_deathsPer1K2017": 56.65
+  },
+  {
+    "country": "Ghana",
+    "infantMortalityRateByCountry_deathsPer1K2021": 32.58,
+    "infantMortalityRateByCountry_deathsPer1K2020": 33.5,
+    "infantMortalityRateByCountry_deathsPer1K2019": 34.51,
+    "infantMortalityRateByCountry_deathsPer1K2018": 35.58,
+    "infantMortalityRateByCountry_deathsPer1K2017": 36.71
+  },
+  {
+    "country": "Peru",
+    "infantMortalityRateByCountry_deathsPer1K2021": 10.96,
+    "infantMortalityRateByCountry_deathsPer1K2020": 11.28,
+    "infantMortalityRateByCountry_deathsPer1K2019": 11.58,
+    "infantMortalityRateByCountry_deathsPer1K2018": 11.88,
+    "infantMortalityRateByCountry_deathsPer1K2017": 12.18
+  },
+  {
+    "country": "Saudi Arabia",
+    "infantMortalityRateByCountry_deathsPer1K2021": 5.75,
+    "infantMortalityRateByCountry_deathsPer1K2020": 5.99,
+    "infantMortalityRateByCountry_deathsPer1K2019": 6.26,
+    "infantMortalityRateByCountry_deathsPer1K2018": 6.58,
+    "infantMortalityRateByCountry_deathsPer1K2017": 6.94
+  },
+  {
+    "country": "Madagascar",
+    "infantMortalityRateByCountry_deathsPer1K2021": 45.26,
+    "infantMortalityRateByCountry_deathsPer1K2020": 45.32,
+    "infantMortalityRateByCountry_deathsPer1K2019": 45.29,
+    "infantMortalityRateByCountry_deathsPer1K2018": 45.17,
+    "infantMortalityRateByCountry_deathsPer1K2017": 45.11
+  },
+  {
+    "country": "Ivory Coast",
+    "infantMortalityRateByCountry_deathsPer1K2021": 55.85,
+    "infantMortalityRateByCountry_deathsPer1K2020": 57.5,
+    "infantMortalityRateByCountry_deathsPer1K2019": 59.02,
+    "infantMortalityRateByCountry_deathsPer1K2018": 60.98,
+    "infantMortalityRateByCountry_deathsPer1K2017": 62.59
+  },
+  {
+    "country": "Nepal",
+    "infantMortalityRateByCountry_deathsPer1K2021": 22.82,
+    "infantMortalityRateByCountry_deathsPer1K2020": 23.62,
+    "infantMortalityRateByCountry_deathsPer1K2019": 24.51,
+    "infantMortalityRateByCountry_deathsPer1K2018": 25.5,
+    "infantMortalityRateByCountry_deathsPer1K2017": 26.61
+  }
+]
